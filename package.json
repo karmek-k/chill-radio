@@ -5,6 +5,7 @@
         "autoprefixer": "^10.3.7",
         "core-js": "^3.0.0",
         "postcss": "^8.3.11",
+        "postcss-loader": "^6.0.0",
         "regenerator-runtime": "^0.13.2",
         "stimulus": "^2.0.0",
         "tailwindcss": "^2.2.17",
